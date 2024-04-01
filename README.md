@@ -1,5 +1,5 @@
 # ML-DL-Stuff
-Implementations of Machine Learning and Deep ;earning models from scratch.
+Implementations of Machine Learning and Deep learning models from scratch.
 
 ## Machine Learning Models
 
